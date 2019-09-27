@@ -1,1 +1,0 @@
-# ambassador-garmindo.github.io
