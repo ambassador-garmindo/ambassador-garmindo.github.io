@@ -9931,6 +9931,7 @@ router-view > div > router-view,
         min-height: 50px;
         border-radius: 0;
         background-color: #061B30;
+
     }
 
 .layout-top-nav .main-header .navbar {
@@ -10495,6 +10496,7 @@ body {
 .nav-sidebar > .active > a:focus {
   color: #fff;
   background-color: #428bca;
+  
 }
 
 
@@ -11176,4 +11178,4 @@ li.rc-time-picker-panel-select-option-disabled:hover {
   border-top-right-radius: 0;
 }
 
-/*# sourceMappingURL=app.1acc7cda9e0d6510365f.bundle.map*/
+/*# sourceMappingURL=app.856d6bcb89fa60785cea.bundle.map*/
